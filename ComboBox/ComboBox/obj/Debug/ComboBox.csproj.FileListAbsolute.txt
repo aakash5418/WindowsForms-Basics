@@ -1,0 +1,11 @@
+C:\projects\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+C:\projects\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+C:\projects\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+C:\projects\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\projects\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.SuggestedBindingRedirects.cache
+C:\projects\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\projects\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\projects\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\projects\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\projects\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+C:\projects\ComboBox\ComboBox\obj\Debug\ComboBox.pdb

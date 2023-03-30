@@ -1,0 +1,12 @@
+C:\projects\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+C:\projects\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+C:\projects\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+C:\projects\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.AssemblyReference.cache
+C:\projects\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.SuggestedBindingRedirects.cache
+C:\projects\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+C:\projects\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.cache
+C:\projects\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.CoreCompileInputs.cache
+C:\projects\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+C:\projects\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
+C:\projects\Dialogs\Dialogs\obj\Debug\Dialogs.FrmDialog.resources
+C:\projects\Dialogs\Dialogs\obj\Debug\Dialogs.FrmUser.resources
